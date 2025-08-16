@@ -1,0 +1,10 @@
+{
+  "network": "Unknown Network",
+  "chainId": 1114,
+  "feeManager": "0x40e4719B290c7D0992b7C976309eB9EEc30a22E5",
+  "tokenFactory": "0x1420A630c00Ff9fbd99cD90B7E01Df0AF2cfcAb1",
+  "treasury": "0xBBe238A43b5E310dE976b0c0EA5264B13BE84bCB",
+  "aiServiceProvider": "0xBBe238A43b5E310dE976b0c0EA5264B13BE84bCB",
+  "basePlatformFee": "1000000000000000",
+  "aiServiceFeePerAgent": "500000000000000"
+}
